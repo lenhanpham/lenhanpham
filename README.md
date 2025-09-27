@@ -1,4 +1,4 @@
-# Hi,
+# Hi
 
 I'm a theoretical, computational, and physical chemist with a strong background in data analysis, machine learning models, and data science. My work focuses on developing computational tools and methods for quantum chemistry, molecular simulations, and materials science. I enjoy bridging chemistry with programming to solve complex problems in chemistry, materials (2D, nano crystals, bio, polymers, surface), and biotechnology.
 
