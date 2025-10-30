@@ -25,9 +25,9 @@ Here are some of my repositories:
 
 - **[OpenThermo](https://github.com/lenhanpham/OpenThermo)**: A comprehensive C++ program for calculating molecular thermochemistry properties from quantum chemistry output files (Gaussian, Orca, GAMESS, NWCHEM, CP2K, VASP). Implements state-of-the-art methods for accurate thermodynamic predictions (under active development) 
 - **[Gaussian-Extractor](https://github.com/lenhanpham/Gaussian-Extractor)**: High-performance, cluster-safe C++ tool to extract data from Gaussian outputs and create inputs. Runs in parallel with comprehensive error handling. (under active development)  
-- **[ComChemKit](https://github.com/lenhanpham/ComChemKit)**: A universial C++ program for computational chemistry research (ORCA, NWCHEM, Molpro, etc.) and other utilities. Designed for high-throughput workflows (under active development)
+- **[ComChemKit](https://github.com/lenhanpham/ComChemKit)**: A universial C++ program for computational chemistry research (ORCA, NWCHEM, Molpro, etc.) and other utilities. Designed for high-throughput workflows. (under active development)
+- **[OpenMECP](https://github.com/lenhanpham/OpenMECP)**: A high-performance Rust implementation of the MECP (Minimum Energy Crossing Point) optimizer for locating crossing points between two potential energy surfaces in quantum chemistry calculations. (under active development)
 - **[REST-MD](https://github.com/lenhanpham/REST-MD)**: Python scripts to prepare inputs for Replica Exchange with Solute Tempering (REST) simulations using Gromacs. Ideal for enhanced sampling in biomolecular simulations.
 - **[water-contact-angle](https://github.com/lenhanpham/water-contact-angle)**: Python code to calculate contact angles of droplets on material surfaces. Versatile for any liquid-solid interface analysis.
-- **[analysis-scripts](https://github.com/lenhanpham/analysis-scripts)**: Collection of Bash and Python scripts for analyzing quantum chemical outputs and generating inputs. Quick and efficient tools for everyday computational chemistry tasks. 
 
 Feel free to explore my [full list of repositories](https://github.com/lenhanpham?tab=repositories)!
