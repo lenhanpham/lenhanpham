@@ -23,7 +23,7 @@ For a full list, check my [Google Scholar profile](https://scholar.google.com/ci
 
 Here are some of my repositories:
 
-- **[OpenThermo](https://github.com/lenhanpham/OpenThermo)**: A comprehensive C++ program for calculating molecular thermochemistry properties from quantum chemistry output files (Gaussian, Orca, GAMESS, NWCHEM, CP2K, VASP). Implements state-of-the-art methods for accurate thermodynamic predictions (under active development) 
+- **[OpenThermo](https://github.com/lenhanpham/OpenThermo)**: A comprehensive C++ program for calculating molecular thermochemistry properties from quantum chemistry output files (Gaussian, Orca, GAMESS, NWCHEM, CP2K, VASP, Q-Chem). Implements state-of-the-art methods for accurate thermodynamic predictions (under active development) 
 - **[Gaussian-Extractor](https://github.com/lenhanpham/Gaussian-Extractor)**: High-performance, cluster-safe C++ tool to extract data from Gaussian outputs and create inputs. Runs in parallel with comprehensive error handling. (under active development)  
 - **[ComChemKit](https://github.com/lenhanpham/ComChemKit)**: A universial C++ program for computational chemistry research (ORCA, NWCHEM, Molpro, etc.) and other utilities. Designed for high-throughput workflows. (under active development)
 - **[OpenMECP](https://github.com/lenhanpham/OpenMECP)**: A high-performance Rust implementation of the MECP (Minimum Energy Crossing Point) optimizer for locating crossing points between two potential energy surfaces in quantum chemistry calculations. (under active development)
