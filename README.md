@@ -10,6 +10,7 @@ Here are some of my notable publications:
 - **Investigating Competing Inner- and Outer-Sphere Electron-Transfer Pathways in Copper Photoredox-Catalyzed Atom-Transfer Radical Additions: Closing the Cycle** (Angewandte Chemie International Edition, 2024)
 - **Photocatalytic Generation of Alkyl Carbanions from Aryl Alkenes** (Nature Catalysis, 2024)
 - **Sustainable Gold Extraction from Ore and Electronic Waste** (Nature Sustainability, 2025)
+- -**Thermal imaging using sulfur polymer optics** (Nature Communications, 2026)
 
 For a full list, check my [Google Scholar profile](https://scholar.google.com/citations?user=yC7hLR0AAAAJ&hl=en).
 
