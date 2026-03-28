@@ -1,6 +1,6 @@
 # Hi
 
-I'm a theoretical, computational, and physical chemist with a strong background in data analysis, machine learning models, and data science. My work focuses on developing computational tools and methods for quantum chemistry, molecular simulations, and materials science. I enjoy bridging chemistry with programming to solve complex problems in chemistry, materials (2D, nano crystals, bio, polymers, surface), and biotechnology. Currently, I am working on and interested in intelligent and robust platforms for computational chemistry and materials research discovery. 
+I am a researcher and hence a deep tech founder with experience and expertise in both wet and dry lab during my master/PhD/post-Phd research time. My work focuses on advanced materials science and their applications. I enjoy bridging chemistry with programming to solve complex problems in chemistry, materials and biotechnology. Among ~30 publications, several are published in very high impact factor journals such as Nature Catalysis, Angewandte, and JACS. 
 
 ## Research Highlights
 
