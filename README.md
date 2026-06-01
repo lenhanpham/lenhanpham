@@ -16,7 +16,7 @@ For a full list, check my [Google Scholar profile](https://scholar.google.com/ci
 
 ## Skills & Tools
 
-- **Programming Languages**: C++, Python, Fortran (basic), Bash
+- **Programming Languages**: C++, Rust, Python, Fortran (basic), Bash
 - **Chemistry and materials tools**: Quantum Chemistry (Gaussian, Orca, Molcas, Molpro, ADF, GAMESS, NWCHEM, CP2K, VASP, QE), Molecular Dynamics (Gromacs, LAMMPS), Machine Learning (PyTorch, TensorFlow, Scikit Learn), Data Processing (NumPy, SciPy, Pandas)
 - **Current research interests**: Materials science, NanoBiotech materials, photochemical reactions, method development
 
